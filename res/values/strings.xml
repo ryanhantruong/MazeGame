@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AMazeByHanScott</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="driver_prompt">Choose a maze solver</string>
+    <string-array name="driver_arrays">
+            <item>Manual</item>
+            <item>Wizard</item>
+            <item>WallFollower</item>
+            <item>Pledge</item>
+    </string-array>
+
+    <string name="maze_prompt">Choose a maze generator</string>
+    <string-array name="maze_arrays">
+        <item>DFS</item>
+        <item>Prim</item>
+        <item>Eller</item>
+    </string-array>
+
+    <string name="skill_prompt">Choose a skill level</string>
+    <string name="hide_solution">Hide Solution</string>
+    <string-array name="skill_arrays">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string name="up"> ^ </string>
+    <string name="down"> v </string>
+    <string name="right"> \> </string>
+
+
+
+
+    </resources>
